@@ -17,9 +17,12 @@ Nice to have:
 
 Advanced features (just to push your limits):
 
-* Allow users to search for products (pre-defined in the frontend code)
-* Allow users to save their shopping lists to use in a later date
-* Add images to each product
+* A user can search for products (pre-defined in the frontend code)
+* A user can save their shopping lists to use in a later date
+* A user can see an image for each product
+
+Also you can:
+
 * Create a backend and move any functionality that you think that better fits there (product retrieval, search, images, etc)
 * Create mind-blowing UI with a great user experience
 
